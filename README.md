@@ -36,3 +36,7 @@ ganache-cli
 Open a new terminal
 truffle compile
 truffle migrate --reset
+
+
+## Notes
+This contract should enforce digital real estate on a 3D plane
