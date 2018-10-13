@@ -40,4 +40,4 @@ truffle migrate --reset
 
 
 ## Notes
-The Fabric.sol - contract should enforce digital real estate on a 3D plane
+contracts/Fabric.sol - contract should enforce digital real estate on a 3D plane
