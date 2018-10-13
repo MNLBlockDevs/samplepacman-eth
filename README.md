@@ -1,9 +1,3 @@
-This repo was built with examples from ff links:
-* https://developers.eos.io/eosio-nodeos/docs/getting-the-code
-
-* https://steemit.com/devs/@eos-asia/eos-smart-contracts-part-1-getting-started-ping-equivalent-in-eos
-
-* https://medium.com/@TeaSea1/how-to-install-eos-on-windows-ac1b6c7d8369
 
 # Instructions:
 
