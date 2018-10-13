@@ -31,6 +31,7 @@ npm run build
 ### serve your production build at localhost:5000
 npm run serve
 
+### deploy contract to chain
 open a new terminal
 ganache-cli
 Open a new terminal
@@ -39,4 +40,4 @@ truffle migrate --reset
 
 
 ## Notes
-This contract should enforce digital real estate on a 3D plane
+The Fabric.sol - contract should enforce digital real estate on a 3D plane
