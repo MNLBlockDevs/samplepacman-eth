@@ -1,0 +1,1 @@
+const fabricContract = artifacts.require("Fabric");
