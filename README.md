@@ -31,8 +31,8 @@ npm run build
 ### serve your production build at localhost:5000
 npm run serve
 
-0. open a new terminal
-1. ganache-cli
-2. Open a new terminal
-3. truffle compile
-4. truffle migrate --reset
+1. open a new terminal
+2. ganache-cli
+3. Open a new terminal
+4. truffle compile
+5. truffle migrate --reset
