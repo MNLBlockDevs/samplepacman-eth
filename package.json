@@ -19,6 +19,7 @@
     "serve": "serve -p 5000 dist"
   },
   "dependencies": {
+    "openzeppelin-solidity": "^1.12.0",
     "phaser": "^3.10.1",
     "vue": "^2.5.11"
   },
